@@ -9,7 +9,7 @@ const NosOffres = lazy(() => import('./pages/NosOffres'));
 const CreditAuto = lazy(() => import('./pages/CreditAuto'));
 const CreditImmobilier = lazy(() => import('./pages/CreditImmobilier'));
 const CreditPersonnel = lazy(() => import('./pages/CreditPersonnel'));
-const CreditEntreprise = lazy(() => import('./pages/CreditEntreprise'));
+const CreditEntreprise = lazy(() => import('./pages/CreditEntreprise2'));
 const Header = lazy(() => import('./components/Header'));
 const Footer = lazy(() => import('./components/Footer'));
 const Breadcrumb = lazy(() => import('./components/Breadcrumb'));
